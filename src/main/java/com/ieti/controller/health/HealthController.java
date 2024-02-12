@@ -1,4 +1,4 @@
-package com.ieti.demo.controller.health;
+package com.ieti.controller.health;
 
 import org.springframework.web.bind.annotation.RequestMapping;
 import org.springframework.web.bind.annotation.RestController;

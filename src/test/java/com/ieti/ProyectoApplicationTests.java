@@ -1,4 +1,4 @@
-package com.ieti.demo;
+package com.ieti;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;
